@@ -163,9 +163,7 @@
 
 **Movie Poster**
 
-![image-20241203205911685](C:\Users\LIANGRY\AppData\Roaming\Typora\typora-user-images\image-20241203205911685.png)
-
-![image-20241203210424754](C:\Users\LIANGRY\AppData\Roaming\Typora\typora-user-images\image-20241203210424754.png)
+放在仓库中。
 
 
 
